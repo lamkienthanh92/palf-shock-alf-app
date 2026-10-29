@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this tool, please cite the archived version and the article."
+title: "Pediatric acute liver failure during shock: companion tool"
+version: "1.2"
+date-released: "2026-10-29"
+license: MIT
+type: software
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given names]"
+    affiliation: "City Children's Hospital, Ho Chi Minh City, Vietnam"
+    orcid: "https://orcid.org/[0000-0000-0000-0000]"
+repository-code: "https://github.com/[GITHUB-USERNAME]/palf-shock-alf-app"
+url: "https://[NETLIFY-SITE-NAME].netlify.app/"
+keywords:
+  - acute liver failure
+  - pediatrics
+  - septic shock
+  - prognosis
+  - in silico model
